@@ -1,2 +1,2 @@
 # SastaBazar.app
-This is my SastaBazar.com website
+This is my SastaBazar.app website
